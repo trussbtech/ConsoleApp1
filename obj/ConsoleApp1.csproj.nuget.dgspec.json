@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\tyron\\source\\repos\\ConsoleApp1\\ConsoleApp1.csproj": {}
+    "C:\\code\\ConsoleApp1\\ConsoleApp1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\tyron\\source\\repos\\ConsoleApp1\\ConsoleApp1.csproj": {
+    "C:\\code\\ConsoleApp1\\ConsoleApp1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tyron\\source\\repos\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectUniqueName": "C:\\code\\ConsoleApp1\\ConsoleApp1.csproj",
         "projectName": "ConsoleApp1",
-        "projectPath": "C:\\Users\\tyron\\source\\repos\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectPath": "C:\\code\\ConsoleApp1\\ConsoleApp1.csproj",
         "packagesPath": "C:\\Users\\tyron\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tyron\\source\\repos\\ConsoleApp1\\obj\\",
+        "outputPath": "C:\\code\\ConsoleApp1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\tyron\\AppData\\Roaming\\NuGet\\NuGet.Config",
